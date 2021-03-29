@@ -1,0 +1,106 @@
+body{
+  text-align: center;
+ margin: 100px;
+ max-width: 1980px;
+}
+
+
+.first {
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 500px;
+  margin: 10px;
+} 
+
+.second {
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 500px;
+  margin: 10px;
+  
+}
+
+article{ 
+  border-style: solid;
+  margin: 10px;
+  height: 300px;
+  width: 1048px;
+  padding: 10px;
+  float: none;
+  clear: both;
+}
+
+.BL{
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 19%;
+  margin: 10px;
+
+}
+
+.BC{
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 19%;
+  margin: 10px;
+}
+
+.BR{
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 19%;
+  margin: 10px;
+  
+}
+
+.st{
+  clear: both;
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 263px;
+  margin: 10px;
+}
+
+
+
+.nd{
+
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 218px;
+  margin: 10px;
+}
+
+.rd{
+
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 218px;
+  margin: 10px;
+}
+
+.th{
+
+  border-style: solid;
+  float: left;
+  padding: 10px;
+  height: 100px;
+  width: 218px;
+  margin: 10px;
+}
